@@ -1,0 +1,19 @@
+{
+  "name": "lesson4",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "weather": "./main.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "main": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "yargs": "^17.6.2"
+  }
+}
